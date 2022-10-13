@@ -11,7 +11,7 @@ Payment fraud detection model
 - [The architecture](#the-architecture)
 - [Long description](#long-description)
 - [Project roadmap](#project-roadmap)
-- [Live demo](#live-demo)
+- [Contributors](#Contributors)
 
 ## Short description
 
@@ -58,4 +58,6 @@ This approach does have a limitation that it is not feasible to come up with a N
 
 ## Project roadmap
 
-## Live demo
+## Contributors
+  ### Aniruddha Talekar
+  ### Subhashini S
