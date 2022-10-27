@@ -53,6 +53,8 @@ This approach does have a limitation that it is not feasible to come up with a N
 ## Demo video
 
 ## The architecture
+![Video transcription/translation app](https://github.com/Ethanhunt03/SLackathon-PaymentFraudDetection-Phoenix/blob/9ced4b55bf0597bc10331af87ca775df2e3deff4/Prephase%20-%20Generic%20scenario%20model%20selection.png)
+
 
 ## Long description
 
