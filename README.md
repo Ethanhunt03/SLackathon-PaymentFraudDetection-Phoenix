@@ -53,13 +53,13 @@ This approach does have a limitation that it is not feasible to come up with a N
 ## Demo video
 
 ## The architecture
-![Video transcription/translation app](https://github.com/Ethanhunt03/SLackathon-PaymentFraudDetection-Phoenix/blob/9ced4b55bf0597bc10331af87ca775df2e3deff4/Prephase%20-%20Generic%20scenario%20model%20selection.png)
+![Video transcription/translation app](https://github.com/Ethanhunt03/SLackathon-PaymentFraudDetection-Phoenix/blob/d50f68c5be1286054835e72625c2d58b3cb00b1b/architecture/Prephase%20-%20Generic%20scenario%20model%20selection.png)
 
 
-![Video transcription/translation app](https://github.com/subhashini-sreeni/SLackathon-PaymentFraudDetection-Phoenix/blob/6891e422d4373dce9b1d7b48141422af5a316040/Prephase%20-%20single%20user%20model%20selection.png)
+![Video transcription/translation app](https://github.com/Ethanhunt03/SLackathon-PaymentFraudDetection-Phoenix/blob/d50f68c5be1286054835e72625c2d58b3cb00b1b/architecture/Prephase%20-%20single%20user%20model%20selection.png)
 
 
-![Video transcription/translation app](https://github.com/subhashini-sreeni/SLackathon-PaymentFraudDetection-Phoenix/blob/6891e422d4373dce9b1d7b48141422af5a316040/Execution%20Phase.png)
+![Video transcription/translation app](https://github.com/Ethanhunt03/SLackathon-PaymentFraudDetection-Phoenix/blob/d50f68c5be1286054835e72625c2d58b3cb00b1b/architecture/Execution%20Phase.png)
 
 
 ## Long description
