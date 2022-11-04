@@ -8,7 +8,7 @@ Payment fraud detection model
   - [How can technology help?](#how-can-technology-help)
   - [The idea](#the-idea)
 - [Demo video](#demo-video)
-- [The architecture](#the-architecture)
+- [The architecture and flow](#the-architecture)
 - [Long description](#long-description)
 - [Project roadmap](#project-roadmap)
 - [Contributors](#Contributors)
@@ -52,7 +52,7 @@ This approach does have a limitation that it is not feasible to come up with a N
   
 ## Demo video
 
-## The architecture
+## The architecture and the flow
 ![Video transcription/translation app](https://github.com/Ethanhunt03/SLackathon-PaymentFraudDetection-Phoenix/blob/d50f68c5be1286054835e72625c2d58b3cb00b1b/architecture/Prephase%20-%20Generic%20scenario%20model%20selection.png)
 
 
