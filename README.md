@@ -63,7 +63,7 @@ This approach does have a limitation that it is not feasible to come up with a N
 
 
 ## Implementation
-The dataset has been downloaded from kaggle. Reference:- [Credit card fraud detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) 
+The dataset has been downloaded from kaggle. Reference:- [Credit card fraud detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) <br>
 <b>Important points to be noted:-</b>
 1. Due to confidentiality issues the data set available online isn't having the actual feature names. Only Time and Amount are readable ones. While Amount is the total transaction amount, the Time column is the number of seconds elapsed between the transaction in consideration and the very first transaction of the dataset. <br>
 2. The column Class with value 1 indicate fradulent transaction and with value 0 indicate a legitimate transaction. The data set has 284315 legitimate transactions only 492 fradulent transaction. Hence the fradulent transactions are about 0.17% of the data set resulting in a very imbalanced data set. Given this data set limitation, the model selection has the contraint that the model being suggested after accuracy check might change in real life scenario, with live data. <br>
