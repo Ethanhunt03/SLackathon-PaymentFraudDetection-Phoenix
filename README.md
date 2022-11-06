@@ -71,7 +71,7 @@ The dataset has been downloaded from kaggle. Reference:- [Credit card fraud dete
 
 Implementation has been divided into 2 main files. 
 1. [FraudDetectionModelSelection_NUsersData.ipynb](https://github.com/Ethanhunt03/SLackathon-PaymentFraudDetection-Phoenix/blob/67c0ed9ee39cb87abb46cf4595dd51e56e483d58/implementation/FraudDetectionModelSelection_NUsersData.ipynb) which handles the architectural and flow implementation for scenario that handles 'N' number of users credit card transactions. 
-2. FraudDetectionModelSelection_1UserDatum.ipynb which handles the architectural and flow implementation for scenario that handles 'N' number of credit card transactions that a single user performs, mainly to capture the spending pattern of the user. 
+2. [FraudDetectionModelSelection_SingleUserData.ipynb](https://github.com/Ethanhunt03/SLackathon-PaymentFraudDetection-Phoenix/blob/2cf38fae7a23b85d2797d4dd22baee003edcd696/implementation/FraudDetectionModelSelection_SingleUserData.ipynb) which handles the architectural and flow implementation for scenario that handles 'N' number of credit card transactions that a single user performs, mainly to capture the spending pattern of the user. 
 
 
 ## Project roadmap
