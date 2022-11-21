@@ -7,7 +7,6 @@ Payment fraud detection model
   - [What's the problem?](#whats-the-problem)
   - [How can technology help?](#how-can-technology-help)
   - [The idea](#the-idea)
-- [Demo video](#demo-video)
 - [The architecture and the flow](#the-architecture-and-the-flow)
 - [Implementation](#implementation)
 - [Project roadmap](#project-roadmap)
@@ -75,6 +74,13 @@ Implementation has been divided into 2 main files.
 
 
 ## Project roadmap
+We plan to include the following in coming interations :- <br>
+1. Enhance [FraudDetectionModelSelection_SingleUserData.ipynb](https://github.com/Ethanhunt03/SLackathon-PaymentFraudDetection-Phoenix/blob/2cf38fae7a23b85d2797d4dd22baee003edcd696/implementation/FraudDetectionModelSelection_SingleUserData.ipynb) to include couple other CNN and RNN models.<br>
+2. Implement various triggers like <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) POS terminal swipe <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Djanfo UI which captures internet transaction of a credit card usage <br>
+3. Integrate with various alert generation system when transaction is found fraudulent. Refer the [The architecture and the flow](#the-architecture-and-the-flow) section's Execution phase flow for more information <br>
+4. Package the entire solution as a plug and play solution
 
 ## Contributors
   ### Aniruddha Talekar
