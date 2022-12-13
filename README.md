@@ -74,7 +74,7 @@ Implementation has been divided into 2 main files.
 
 
 ## Project roadmap
-We plan to include the following in coming interations :- <br>
+We plan to include the following in coming iterations :- <br>
 1. Enhance [FraudDetectionModelSelection_SingleUserData.ipynb](https://github.com/Ethanhunt03/SLackathon-PaymentFraudDetection-Phoenix/blob/2cf38fae7a23b85d2797d4dd22baee003edcd696/implementation/FraudDetectionModelSelection_SingleUserData.ipynb) to include couple other CNN and RNN models.<br>
 2. Implement various triggers like <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) POS terminal swipe <br>
